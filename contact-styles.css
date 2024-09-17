@@ -80,7 +80,7 @@ footer {
     padding: 20px;
     background-color: #34495e;
     color: white;
-    position: relative;
+    position: absolute;
     bottom: 0;
     width: 100%;
     display: flex;
